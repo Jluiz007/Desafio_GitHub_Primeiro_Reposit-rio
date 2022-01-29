@@ -1,2 +1,7 @@
 Link para download do Git: https://git-scm.com/downloads
-# GIt bash � um terminal extendido para otimizar o uso do Git  
+# GIt bash é um terminal extendido para otimizar o uso do Git  
+# Criando pasta a partir do Terminal com o "mkdir"
+# Criando pasta dentro do diretório com o comando "echo"
+# encriptação SHA1
+# Objetos internos do Git (Blobs/Trees/Commits)
+# Criando Chaves SSH e Tokens de Acesso Pessoal
